@@ -2,10 +2,6 @@ Insert something at the head of the file.
 Yet another server side change
 A line changed on the server side
 Trainer making changes
-JUNK ON BLUE
-<<<<<<< HEAD
+JUNK ON PURPLE
 More junk
 Yet more junk
-=======
-Put something on the bottom of the file.
->>>>>>> a2890f0dfb949a78b8792a771f7202aed1abe231
