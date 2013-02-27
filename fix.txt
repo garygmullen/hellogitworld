@@ -2,7 +2,7 @@ Insert something at the head of the file.
 Yet another server side change
 A line changed on the server side
 Trainer making changes
-JUNK ON
+JUNK ON BLUE
 <<<<<<< HEAD
 More junk
 Yet more junk
